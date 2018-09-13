@@ -18,3 +18,7 @@
  &nbsp;&nbsp;&nbsp;&nbsp;-a: commit all changes, -m: commit name  
 
 ```git push origin master```
+
+## .Net ##
+
+```dotnet new -i Microsoft.AspNetCore.SpaTemplates::*```&nbsp;&nbsp;&nbsp;&nbsp;Update templates
